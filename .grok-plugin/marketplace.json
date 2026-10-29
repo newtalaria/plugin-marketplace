@@ -480,8 +480,8 @@
       "category": "observability",
       "source": {
         "source": "url",
-        "url": "https://github.com/newtalaria/talaria-grok-plugin.git",
-        "sha": "e6a986426e53c7cb926b2d3a75e862004cae9da3"
+        "url": "https://github.com/newtalaria/talaria-agent-plugin.git",
+        "sha": "1103195ab33821e082a1ce2ac81f72fb6045e9fc"
       },
       "homepage": "https://www.newtalaria.com/mcp",
       "keywords": ["talaria", "talaria mcp", "newtalaria"],

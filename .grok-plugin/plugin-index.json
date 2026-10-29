@@ -1301,8 +1301,8 @@
       }
     },
     "talaria": {
-      "sha": "e6a986426e53c7cb926b2d3a75e862004cae9da3",
-      "version": "0.2.1",
+      "sha": "1103195ab33821e082a1ce2ac81f72fb6045e9fc",
+      "version": "0.2.2",
       "components": {
         "mcpServers": [
           {
