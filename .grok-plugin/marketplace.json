@@ -476,12 +476,12 @@
     },
     {
       "name": "talaria",
-      "description": "Talaria observability for agents. Read production errors, traces, and replays over hosted MCP, triage issues, and verify a fix held after release.",
+      "description": "Talaria observability for agents. Instrument agent code, observe production errors, traces, and replays over hosted MCP, triage issues, and verify that fixes hold after release.",
       "category": "observability",
       "source": {
         "source": "url",
         "url": "https://github.com/newtalaria/talaria-grok-plugin.git",
-        "sha": "8dbc2370bc9f93888562cd1e9d1d733c91ab9fde"
+        "sha": "34a650bcd7e4f9966038f204acd2cbf1ee7e2bf8"
       },
       "homepage": "https://www.newtalaria.com/mcp",
       "keywords": ["talaria", "talaria mcp", "newtalaria"],

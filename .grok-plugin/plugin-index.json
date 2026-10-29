@@ -1301,13 +1301,21 @@
       }
     },
     "talaria": {
-      "sha": "8dbc2370bc9f93888562cd1e9d1d733c91ab9fde",
-      "version": "0.1.0",
+      "sha": "34a650bcd7e4f9966038f204acd2cbf1ee7e2bf8",
+      "version": "0.2.0",
       "components": {
         "skills": [
           {
             "name": "talaria-get-started",
             "description": "Connect Talaria MCP, confirm the org and project, and run a first smoke read (docs or search_errors). Use when the user…"
+          },
+          {
+            "name": "talaria-instrument",
+            "description": "Add Talaria to an app: detect stack, confirm org/project, run setup_project (development ingest key), wire the SDK from…"
+          },
+          {
+            "name": "talaria-observe-performance",
+            "description": "Read Talaria project health and performance: get_project_stats, search_traces / get_trace, list_suspect_spans, list_dat…"
           },
           {
             "name": "talaria-triage-issue",
