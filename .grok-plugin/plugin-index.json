@@ -1301,9 +1301,15 @@
       }
     },
     "talaria": {
-      "sha": "34a650bcd7e4f9966038f204acd2cbf1ee7e2bf8",
-      "version": "0.2.0",
+      "sha": "e6a986426e53c7cb926b2d3a75e862004cae9da3",
+      "version": "0.2.1",
       "components": {
+        "mcpServers": [
+          {
+            "name": "talaria",
+            "description": "http"
+          }
+        ],
         "skills": [
           {
             "name": "talaria-get-started",
